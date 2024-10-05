@@ -4,8 +4,8 @@ The **Hospital Management System (HMS)** is a simple Java-based application that
 ## Project Structure
 
 
-**`Patient.java`**: Handles patient-related functionalities like adding patients and viewing patient records.
-**`Doctor.java`**: Manages doctor-related features, including displaying doctor details and checking availability.
+**`Patient.java`**: Handles patient-related functionalities like adding patients and viewing patient records.    
+**`Doctor.java`**: Manages doctor-related features, including displaying doctor details and checking availability.    
 **`Hospital.java`**: The main file for the system, handles user interaction and various hospital management tasks like booking appointments and managing data.
 
 
