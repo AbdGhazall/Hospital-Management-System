@@ -56,7 +56,7 @@ The **Hospital Management System (HMS)** is a simple Java-based application that
 
 ## How to Run
 
-1.  **Database Setup**:
+1.  **Database Setup**:    
     Create a MySQL database named `hospital`.    
     Add the following tables:    
    ```sql
