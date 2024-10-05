@@ -44,7 +44,8 @@ The **Hospital Management System (HMS)** is a simple Java-based application that
    - Patients Table    
      ![patients table](https://github.com/user-attachments/assets/1e7736cd-56f9-48d3-a549-8668d44c1b22)
    
-    -  Doctors Table
+    -  Doctors Table    
+      ![doctors table](https://github.com/user-attachments/assets/70254d9f-6f88-4ddc-a819-31ea566c9c22)
    
     -  Appointments Table
 
