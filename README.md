@@ -50,10 +50,8 @@ The **Hospital Management System (HMS)** is a simple Java-based application that
     -  Appointments Table    
       ![appointments table](https://github.com/user-attachments/assets/79363447-8563-4107-9a53-e6017a5b90fc)
 
--  **Program Output:**
-    
-    -   Example of adding a patient
-    -   Example of booking an appointment
+-  **Program Output:**    
+  ![output](https://github.com/user-attachments/assets/dff4f794-0935-4cb0-b895-35ac6fa7668d)
 
 
 
