@@ -91,9 +91,3 @@ CREATE TABLE appointments (
     -   Install and configure [MySQL JDBC driver](https://dev.mysql.com/downloads/connector/j/).
     -   Update the database connection details (`url`, `username`, `password`) in `Hospital.java`.
     -   Compile and run the `Hospital.java` file.
-
-
-
-## License
-
-This project is open source and available under the MIT License.
