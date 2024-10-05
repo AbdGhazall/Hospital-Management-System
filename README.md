@@ -57,8 +57,8 @@ The **Hospital Management System (HMS)** is a simple Java-based application that
 ## How to Run
 
 1.  **Database Setup**:
-    -   Create a MySQL database named `hospital`.
-    -   Add the following tables:
+    Create a MySQL database named `hospital`.
+    Add the following tables:
    ```sql
    CREATE TABLE patients (
   id INT AUTO_INCREMENT PRIMARY KEY,
@@ -88,6 +88,6 @@ CREATE TABLE appointments (
 
         
 2.  **Java Setup**:
-    -   Install and configure [MySQL JDBC driver](https://dev.mysql.com/downloads/connector/j/).
-    -   Update the database connection details (`url`, `username`, `password`) in `Hospital.java`.
-    -   Compile and run the `Hospital.java` file.
+    Install and configure [MySQL JDBC driver](https://dev.mysql.com/downloads/connector/j/).
+    Update the database connection details (`url`, `username`, `password`) in `Hospital.java`.
+    Compile and run the `Hospital.java` file.
