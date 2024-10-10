@@ -1,5 +1,5 @@
 # Hospital Management System
-The **Hospital Management System (HMS)** is a simple Java-based application that helps manage hospital operations, such as adding new patients, viewing existing patients and doctors, and booking appointments. The application connects to a MySQL database to store and retrieve patient and doctor records, providing a seamless way to handle basic hospital management tasks. This project demonstrates core Java concepts, JDBC for database interaction, and object-oriented programming practices.
+The **Hospital Management System** is a simple Java-based application that helps manage hospital operations, such as adding new patients, viewing existing patients and doctors, and booking appointments. The application connects to a MySQL database to store and retrieve patient and doctor records, providing a seamless way to handle basic hospital management tasks. This project demonstrates core Java concepts, JDBC for database interaction, and object-oriented programming practices.
 
 ## Project Structure
 
