@@ -36,25 +36,6 @@ The **Hospital Management System (HMS)** is a simple Java-based application that
 -   **JDBC (Java Database Connectivity)**: Connecting and interacting with the MySQL database from the Java application.
 -   **IntelliJ IDEA**: IDE for writing and testing the application.
 
-
-## Screenshots
-
-- **Database Tables:**
-    
-   - Patients Table    
-     ![patients table](https://github.com/user-attachments/assets/1e7736cd-56f9-48d3-a549-8668d44c1b22)
-   
-    -  Doctors Table    
-      ![doctors table](https://github.com/user-attachments/assets/70254d9f-6f88-4ddc-a819-31ea566c9c22)
-   
-    -  Appointments Table    
-      ![appointments table](https://github.com/user-attachments/assets/79363447-8563-4107-9a53-e6017a5b90fc)
-
--  **Program Output:**    
-  ![output](https://github.com/user-attachments/assets/dff4f794-0935-4cb0-b895-35ac6fa7668d)
-
-
-
 ## How to Run
 
 1.  **Database Setup**:    
@@ -86,4 +67,21 @@ CREATE TABLE appointments (
 2.  **Java Setup**:    
     - Install and configure [MySQL JDBC driver](https://dev.mysql.com/downloads/connector/j/).    
     - Update the database connection details (`url`, `username`, `password`) in `Hospital.java`.    
-    - Compile and run the `Hospital.java` file.    
+    - Compile and run the `Hospital.java` file.
+
+## Screenshots
+
+- **Database Tables:**
+    
+   - Patients Table    
+     ![patients table](https://github.com/user-attachments/assets/1e7736cd-56f9-48d3-a549-8668d44c1b22)
+   
+    -  Doctors Table    
+      ![doctors table](https://github.com/user-attachments/assets/70254d9f-6f88-4ddc-a819-31ea566c9c22)
+   
+    -  Appointments Table    
+      ![appointments table](https://github.com/user-attachments/assets/79363447-8563-4107-9a53-e6017a5b90fc)
+
+-  **Program Output:**    
+  ![output](https://github.com/user-attachments/assets/dff4f794-0935-4cb0-b895-35ac6fa7668d)
+
