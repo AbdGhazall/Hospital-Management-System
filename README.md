@@ -70,7 +70,7 @@ CREATE TABLE appointments (
     - Compile and run the `Hospital.java` file.
 
 ## Screenshots
--  **Program Output:**    
+-  **Output:**    
   ![output](https://github.com/user-attachments/assets/dff4f794-0935-4cb0-b895-35ac6fa7668d)
 
 - **Database Tables:**
